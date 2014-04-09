@@ -1,0 +1,17 @@
+54a7b96106abb7d13011c2d0c9924834 *DESCRIPTION
+259521f03e1eb24d4bf05b399a0c85e4 *NAMESPACE
+a49c3519fecf4b3927a698c2f77a48fc *R/helper_functions.R
+c51d989504f9b5d9264498f3e8e5a52a *R/zzz.R
+97d1618475408d3c2e5581390fff8c2f *README.md
+17dad1f1403d96c539fe483b95dba038 *inst/Investigator/Occupations.cdb
+3e22b4c268023b2bcd3d0b06c9a88533 *inst/Investigator/Occupations.csv
+b6312c8d5ec9a463e38326f1c394fb1f *inst/Investigator/Religion.cdb
+cd5cb40dc9a34e58a697e47c84b47d95 *inst/Investigator/Religion.csv
+70e8e5562741c1058144273d1e344cc4 *man/CreateNLSdata.Rd
+198b0c58fe937b1feca71d610ee0bfdf *man/CreateTimeSeriesDf.Rd
+6ef93526b0cee9ab4bbb51d351c72adf *man/NLSData.Rd
+b18811d0c153750eab3ef62d62e7e28a *man/RosterToLongDf.Rd
+bdb0d8abd9aa7cd5ed25029d62f58657 *man/ThrowAwayDataForBalance.Rd
+b33973db5cec2191108c3769a15c836e *man/summary-NLSdata.Rd
+e8a381eec8d8a3a5becebfa0cc5cee80 *tests/helper_fn_test.R
+882a162ffb9be8ff36c99c8b20e997fe *tests/run_tests.R
